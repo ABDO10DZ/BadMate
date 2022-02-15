@@ -1,5 +1,5 @@
 # BadMate Linux.Ransomware
-Linux Rnasomware , Encrypt All files in AES with RSA Decrypt Key 
+Updated :with AES-256 decrypt key in AES 
 
 <img src="https://i.imgur.com/Qo6DoJY.png">
-for stock - https://t.me/abdo10_DZ
+for stock - https://t.me/ABDO10_DZ
